@@ -2,7 +2,7 @@
 
 My name is Dolgov Alexander Alexeyevich. I'm first year student at MIPT (Moscow Institute of Physics and Technology).
 
-During the first semester I completed a number of projects by [Ilya Dedinsky](https://github.com/ded32). Here they are in chronological order:
+During the 1st semester I completed a number of projects by [Ilya Dedinsky](https://github.com/ded32). Here they are in chronological order:
 
 - [Quadratic equation solver](https://github.com/KetchuppOfficial/Quadratic_Equations)
 
@@ -20,6 +20,8 @@ During the first semester I completed a number of projects by [Ilya Dedinsky](ht
 
 - My own programming language (still undone)
 
-During the second semester, that I hasn't finished yet, I completed only two projects on assembler. Here they are in chronological order:
+During the 2nd semester, that I hasn't finished yet, I completed only two projects on assembler. Here they are in chronological order:
 
 - [Frame](https://github.com/KetchuppOfficial/Frame)
+
+- [String functions](https://github.com/KetchuppOfficial/String-functions)
