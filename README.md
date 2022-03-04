@@ -4,4 +4,4 @@ My name is Dolgov Alexander Alexeyevich. I'm first year student in MIPT (Moscow 
 
 During the first semester I completed a number of projects by [Ilya Dedinsky](https://github.com/ded32) but the best one is:
 
-[Virtual processor with my own assembler](https://github.com/KetchuppOfficial/Processor)
+[Virtual processor with my own assembler (aka "Processor")](https://github.com/KetchuppOfficial/Processor)
