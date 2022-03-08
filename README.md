@@ -22,6 +22,8 @@ During the 2nd semester, that I hasn't finished yet, I completed only 2 projects
 
 - [String functions](https://github.com/KetchuppOfficial/String-functions)
 
+- [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame) (still in process)
+
 ## Known programming languages 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
