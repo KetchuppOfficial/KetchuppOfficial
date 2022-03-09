@@ -22,7 +22,7 @@ During the 2nd semester, that I hasn't finished yet, I completed only 2 projects
 
 - [String functions](https://github.com/KetchuppOfficial/String-functions)
 
-- [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame) (still in process)
+- [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame) (still in progress)
 
 ## Known programming languages 
 
