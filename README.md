@@ -16,13 +16,15 @@ During the 1st semester I completed 7 projects by [Ilya Dedinsky](https://github
 
 - My own programming language (still undone)
 
-During the 2nd semester, that I hasn't finished yet, I completed only 2 projects on assembler. Here they are in chronological order:
+Now the 2nd semester is in progress. I have already completed 3 projects on assembler. Here they are in chronological order:
 
 - [Frame](https://github.com/KetchuppOfficial/Frame)
 
 - [String functions](https://github.com/KetchuppOfficial/String-functions)
 
-- [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame) (still in progress)
+- [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame)
+
+- [Printf]() (haven't started yet)
 
 ## Known programming languages 
 
