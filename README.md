@@ -14,7 +14,7 @@ During the 1st semester I completed 7 projects by [Ilya Dedinsky](https://github
 
 - [Derivative calculator (aka "Differentiator")](https://github.com/KetchuppOfficial/Differentiator)
 
-- My own programming language (still undone)
+- [My own programming language]() (still undone)
 
 Now the 2nd semester is in progress. I have already completed 3 projects on assembler. Here they are in chronological order:
 
