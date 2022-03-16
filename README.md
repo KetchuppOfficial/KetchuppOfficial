@@ -24,7 +24,7 @@ Now the 2nd semester is in progress. I have already completed 3 projects on asse
 
 - [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame)
 
-- [Printf]() (haven't started yet)
+- [Printf](https://github.com/KetchuppOfficial/ParaPF) (incomplete)
 
 I also have a repository for the reports on laboratory works:
 
