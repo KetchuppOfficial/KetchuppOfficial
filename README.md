@@ -26,6 +26,10 @@ Now the 2nd semester is in progress. I have already completed 3 projects on asse
 
 - [Printf]() (haven't started yet)
 
+I also have a repository for the reports on laboratory works:
+
+- [Thermodynamics: 2nd semester](https://github.com/KetchuppOfficial/Labs_Semester_2)
+
 ## Known programming languages 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
