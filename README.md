@@ -31,6 +31,7 @@ I also have a repository for the reports on laboratory works:
 ## Other skills (improving)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contacts
 
