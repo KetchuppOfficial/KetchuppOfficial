@@ -28,7 +28,7 @@ I also have a repository for the reports on laboratory works:
 
 ![vs](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Other skills (still improving skills)
+## Other skills (improving skills)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
