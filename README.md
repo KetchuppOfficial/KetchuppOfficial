@@ -30,5 +30,6 @@ I also have a repository for the reports on laboratory works:
 
 ## Other skills
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) (still studying)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+(still studying)
 
