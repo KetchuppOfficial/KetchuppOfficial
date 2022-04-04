@@ -34,3 +34,7 @@ I also have a repository for the reports on laboratory works:
 
 (still studying)
 
+## Contacts
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dolgov.aleksandr@phystech.edu)
+
