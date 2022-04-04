@@ -2,31 +2,19 @@
 
 My name is Dolgov Alexander Alexeyevich. I'm 1st year student at MIPT (Moscow Institute of Physics and Technology).
 
-During the 1st semester I completed 7 projects by [Ilya Dedinsky](https://github.com/ded32). Here are the best ones:
+Now I'm on a 2nd part of the course in programming by [Ilya Dedinsky](https://github.com/ded32) that he runs in MIPT for 1st year students. Here are the best projects of mine written in C and assembler:
 
 - [Stack](https://github.com/KetchuppOfficial/Stack)
 
 - [Virtual processor with my own assembler (aka "Processor")](https://github.com/KetchuppOfficial/Processor)
 
-- [Double linked list](https://github.com/KetchuppOfficial/List)
-
 - [Binary tree (aka "Akinator")](https://github.com/KetchuppOfficial/Akinator)
 
 - [Derivative calculator (aka "Differentiator")](https://github.com/KetchuppOfficial/Differentiator)
 
-- [My own programming language]() (still undone)
-
-Now the 2nd semester is in progress. I have already completed 5 projects on assembler (and a little bit of C). Here they are in chronological order:
-
-- [Frame](https://github.com/KetchuppOfficial/Frame)
-
-- [String functions](https://github.com/KetchuppOfficial/String-functions)
-
-- [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame)
-
 - [My own printf (aka "ParaPF")](https://github.com/KetchuppOfficial/ParaPF)
 
-- [Task in hacking](https://github.com/KetchuppOfficial/Hacking)
+- [My own programming language]() (still undone)
 
 I also have a repository for the reports on laboratory works:
 
@@ -40,4 +28,3 @@ I also have a repository for the reports on laboratory works:
 
 ![vs](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKetchuppOfficial=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
