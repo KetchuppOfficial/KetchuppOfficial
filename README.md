@@ -16,7 +16,7 @@ During the 1st semester I completed 7 projects by [Ilya Dedinsky](https://github
 
 - [My own programming language]() (still undone)
 
-Now the 2nd semester is in progress. I have already completed 6 projects on assembler (and a little bit of C). Here they are in chronological order:
+Now the 2nd semester is in progress. I have already completed 5 projects on assembler (and a little bit of C). Here they are in chronological order:
 
 - [Frame](https://github.com/KetchuppOfficial/Frame)
 
