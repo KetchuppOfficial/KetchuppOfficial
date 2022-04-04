@@ -16,7 +16,7 @@ During the 1st semester I completed 7 projects by [Ilya Dedinsky](https://github
 
 - [My own programming language]() (still undone)
 
-Now the 2nd semester is in progress. I have already completed 4 projects on assembler. Here they are in chronological order:
+Now the 2nd semester is in progress. I have already completed 5 projects on assembler. Here they are in chronological order:
 
 - [Frame](https://github.com/KetchuppOfficial/Frame)
 
@@ -25,6 +25,8 @@ Now the 2nd semester is in progress. I have already completed 4 projects on asse
 - [Resident frame](https://github.com/KetchuppOfficial/Resident_Frame)
 
 - [My own printf (aka "ParaPF")](https://github.com/KetchuppOfficial/ParaPF)
+
+- [Task in hacking](https://github.com/KetchuppOfficial/Hacking)
 
 I also have a repository for the reports on laboratory works:
 
