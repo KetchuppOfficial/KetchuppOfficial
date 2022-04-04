@@ -22,7 +22,8 @@ I also have a repository for the reports on laboratory works:
 
 ## Known programming languages 
 
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Asm](https://img.shields.io/badge/Assembly-B7472A?style=for-the-badge&logo=Assembly&logoColor=white)
 
 ## IDE
 
