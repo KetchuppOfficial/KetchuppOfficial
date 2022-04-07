@@ -2,7 +2,7 @@
 
 My name is Dolgov Alexander Alexeyevich. I'm 1st year student at MIPT (Moscow Institute of Physics and Technology).
 
-Now I'm on the 2nd part of the course in programming by [Ilya Dedinsky](https://github.com/ded32) that he runs in MIPT for 1st year students. Here are the best projects of mine written in C and assembler:
+Now I'm on the 2nd part of the course in programming by [Ilya Dedinsky](https://github.com/ded32) that he runs in MIPT for 1st year students. Here are the best projects of mine written in C and assembley language:
 
 - [Stack](https://github.com/KetchuppOfficial/Stack)
 
