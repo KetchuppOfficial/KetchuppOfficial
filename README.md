@@ -18,7 +18,7 @@ Now I'm on the 2nd part of the course in programming by [Ilya Dedinsky](https://
 
 I also have a repository for the reports on laboratory works:
 
-- [General Physics: Thermodynamics (2nd semester)](https://github.com/KetchuppOfficial/Labs_Semester_2)
+- [Labs_In_General_Physics](https://github.com/KetchuppOfficial/Labs_Semester_2)
 
 ## Known programming languages 
 
