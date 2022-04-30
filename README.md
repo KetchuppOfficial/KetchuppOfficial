@@ -14,6 +14,8 @@ Now I'm on the 2nd part of the course in programming by [Ilya Dedinsky](https://
 
 - [My own printf (aka "ParaPF")](https://github.com/KetchuppOfficial/ParaPF)
 
+- [Hash table with optimizations](Hash_Table)
+
 - [My own programming language]() (still undone)
 
 I also have a repository for the reports on laboratory works:
