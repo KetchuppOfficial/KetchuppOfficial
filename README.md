@@ -16,6 +16,8 @@ Now I'm on the 2nd part of the course in programming by [Ilya Dedinsky](https://
 
 - [Hash table with optimizations](https://github.com/KetchuppOfficial/Hash_Table)
 
+- [Binary Translator](https://github.com/KetchuppOfficial/Binary_Translator) (developing in progress)
+
 - [My own programming language]() (still undone)
 
 I also have a repository for the reports on laboratory works:
@@ -30,6 +32,11 @@ I also have a repository for the reports on laboratory works:
 ## IDE
 
 ![vs](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## OS
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) (mostly)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) (sometimes)
 
 ## Other skills (trying to improve)
 
