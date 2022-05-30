@@ -20,7 +20,7 @@ I've finished two-semester course in programming by [Ilya Dedinsky](https://gith
 
 I also have a repository for the reports on laboratory works:
 
-- [Labs_In_General_Physics](https://github.com/KetchuppOfficial/Labs_Semester_2)
+- [Labs In General Physics](https://github.com/KetchuppOfficial/Labs_Semester_2)
 
 ## Known programming languages 
 
