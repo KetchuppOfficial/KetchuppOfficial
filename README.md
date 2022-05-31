@@ -4,8 +4,6 @@ My name is Dolgov Alexander Alexeyevich. I'm 1st year student at MIPT (Moscow In
 
 I've finished two-semester course in programming by [Ilya Dedinsky](https://github.com/ded32). Here are the best projects of mine written in C and assembly language:
 
-- [Stack](https://github.com/KetchuppOfficial/Stack)
-
 - [Virtual processor with my own assembler (aka "Processor")](https://github.com/KetchuppOfficial/Processor)
 
 - [Binary tree (aka "Akinator")](https://github.com/KetchuppOfficial/Akinator)
