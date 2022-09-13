@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dolgov Alexander Alexeyevich. I'm 1st year graduate at MIPT (Moscow Institute of Physics and Technology).
+My name is Dolgov Alexander Alexeyevich. I'm 2nd year student at MIPT (Moscow Institute of Physics and Technology).
 
 I've finished two-semester course in programming by [Ilya Dedinsky](https://github.com/ded32). Here are the best projects of mine written in C and assembly language:
 
@@ -16,6 +16,8 @@ I've finished two-semester course in programming by [Ilya Dedinsky](https://gith
 
 - [Binary Translator](https://github.com/KetchuppOfficial/Binary_Translator)
 
+Now I'm taking a course "Uses and applications of the C++ language" by [K.I.Vladimirov](https://github.com/tilir).
+
 I also have a repository for the reports on laboratory works:
 
 - [Labs In General Physics](https://github.com/KetchuppOfficial/Labs_In_General_Physics)
@@ -24,6 +26,10 @@ I also have a repository for the reports on laboratory works:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Asm](https://img.shields.io/badge/Assembly-8B4513?style=for-the-badge&logo=Assembly&logoColor=white)
+
+## Making apptempts to learn
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## IDE
 
@@ -38,8 +44,4 @@ I also have a repository for the reports on laboratory works:
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## Contacts
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dolgov.aleksandr@phystech.edu)
-
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
