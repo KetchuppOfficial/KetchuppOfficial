@@ -2,7 +2,7 @@
 
 My name is Dolgov Alexander Alexeyevich. I'm 2nd year student at MIPT (Moscow Institute of Physics and Technology).
 
-I've finished one-year course in programming by [Ilya Dedinsky](https://github.com/ded32). Here are the best projects of mine written in C and assembly language:
+I've finished one-year course in programming by [I.R.Dedinsky](https://github.com/ded32). Here are the best projects of mine written in C and assembly language:
 
 - [Virtual processor with my own assembler (aka "Processor")](https://github.com/KetchuppOfficial/Processor)
 
