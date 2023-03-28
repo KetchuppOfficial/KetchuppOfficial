@@ -16,7 +16,7 @@ I've finished one-year course in programming by [I.R.Dedinsky](https://github.co
 
 - [Binary Translator](https://github.com/KetchuppOfficial/Binary_Translator)
 
-Now I'm taking a course "Uses and applications of the C++ language" by [K.I.Vladimirov](https://github.com/tilir).
+Now I'm taking a course "Uses and applications of C++ language" by [K.I.Vladimirov](https://github.com/tilir).
 
 I also have a repository for the reports on laboratory works:
 
@@ -26,9 +26,6 @@ I also have a repository for the reports on laboratory works:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Asm](https://img.shields.io/badge/Assembly-8B4513?style=for-the-badge&logo=Assembly&logoColor=white)
-
-## Making apptempts to learn
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## IDE
