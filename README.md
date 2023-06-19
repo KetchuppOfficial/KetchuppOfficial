@@ -16,7 +16,14 @@ I've finished one-year course in programming by [I.R.Dedinsky](https://github.co
 
 - [Binary Translator](https://github.com/KetchuppOfficial/Binary_Translator)
 
-Now I'm taking a course "Uses and applications of C++ language" by [K.I.Vladimirov](https://github.com/tilir).
+I've also took course "Uses and applications of C++ language" by [K.I.Vladimirov](https://github.com/tilir).
+Here are my best C++ projects:
+
+- [Triangles](https://github.com/KetchuppOfficial/Triangles_Intersection)
+
+- [Matrix](https://github.com/KetchuppOfficial/Matrix)
+
+- [Augmented red-black tree](https://github.com/KetchuppOfficial/Tree)
 
 I also have a repository for the reports on laboratory works:
 
