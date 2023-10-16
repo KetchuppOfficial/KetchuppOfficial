@@ -25,6 +25,8 @@ Here are my best C++ projects:
 
 - [Augmented red-black tree](https://github.com/KetchuppOfficial/Tree)
 
+- [Splay tree](https://github.com/KetchuppOfficial/Splay_Tree)
+
 - [Matrix](https://github.com/KetchuppOfficial/Matrix)
 
 - [Caches](https://github.com/KetchuppOfficial/LFU_Cache)
