@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dolgov Alexander Alexeyevich. I'm a 3rd year student of MIPT (Moscow Institute of Physics and Technology).
+My name is Dolgov Alexander Alexeyevich. I'm a 4th year student of MIPT (Moscow Institute of Physics and Technology).
 
 My [CV](/CV.pdf).
 
